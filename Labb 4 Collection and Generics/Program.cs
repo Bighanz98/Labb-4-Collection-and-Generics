@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //Anton Hansson SUT23
+            //Anton Hansson SUT23 
             
             Employee Stella = new Employee() //Här skapar jag objekt för alla anställda, med olika egenskaper.
             {
